@@ -1,2 +1,1 @@
-# Phase-1
-Image recognition with IBM
+# Image recognition with IBM Cloud Visual Recognition 
