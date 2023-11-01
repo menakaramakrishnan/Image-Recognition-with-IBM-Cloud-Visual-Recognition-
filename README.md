@@ -38,13 +38,13 @@ Step-by-step instructions for users to clone and set up the project. For example
 1. Clone the repository:
 
   
-   git clone (https://github.com/Kabha-Jelas/Image-Recognition-with-IBM-Cloud-Visual-Recognition.git)
+   git clone (https://github.com/menakaramakrishnan/Image-Recognition-with-IBM-Cloud-Visual-Recognition-.git)
    
 
 2. Change to the project directory:
 
    bash
-   cd (https://github.com/Kabha-Jelas/Image-Recognition-with-IBM-Cloud-Visual-Recognition.git)
+   cd (https://github.com/menakaramakrishnan/Image-Recognition-with-IBM-Cloud-Visual-Recognition-.git)
    
 
 ## Navigating the Website
